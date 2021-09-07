@@ -39,13 +39,15 @@ responsive
 www.ajax.nl
 
 #### Screenshot(s) van de eerste pagina (small screen): 
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+wwww.ajax.nl
+<img src="ajax.png" width="375px" alt="startpagina ajax computer">
+<img src="IMG-0079.PNG" width="375px" alt="startpagina ajax mobiel">
+<img src="IMG-0080.PNG" width="375px" alt="startpagina ajax mobiel">
 
 #### Screenshot(s) van de tweede pagina (small screen):
-hier de naam van de pagina  
-<img src="images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
+https://www.ajax.nl/shop
+<img src="ajaxfanshop.png" width="375px" alt="ajax fanshop computer">
+<img src="IMG-0081.PNG" width="375px" alt="ajaxfanshop mobiel">
 </details>
 
 
