@@ -46,7 +46,7 @@ wwww.ajax.nl
 
 #### Screenshot(s) van de tweede pagina (small screen):
 https://www.ajax.nl/shop
-<img src="images/ajaxfanshop.png" width="900px" alt="ajax fanshop computer">
+<img src="ajaxfanshop.png" width="900px" alt="ajax fanshop computer">
 <img src="images/IMG-0081.PNG" width="375px" height="500px" alt="ajaxfanshop mobiel">
 </details>
 
