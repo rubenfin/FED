@@ -40,7 +40,7 @@ www.ajax.nl
 
 #### Screenshot(s) van de eerste pagina (small screen): 
 wwww.ajax.nl
-<img src="ajax.png" width="375px" width="900px" alt="startpagina ajax computer">
+<img src="ajax.png" width="900px" alt="startpagina ajax computer">
 <img src="IMG-0079.PNG" width="375px" height="500px" alt="startpagina ajax mobiel">
 <img src="IMG-0080.PNG" width="375px" height="500px" alt="startpagina ajax mobiel">
 
