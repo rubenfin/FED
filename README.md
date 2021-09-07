@@ -22,7 +22,7 @@ Ruben Finnerud
 rood
 
 #### Je focus:
-responsive
+surface plane
  
 </details>
 
